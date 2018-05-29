@@ -13,7 +13,7 @@ import android.util.AttributeSet;
 import android.view.View;
 
 /**
- * 2017/1/20  更新测试
+ * 2017/1/20  更新测试 1.1
  */
 public class TextProgressView extends View {
 
