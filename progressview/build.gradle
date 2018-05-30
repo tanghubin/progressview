@@ -24,11 +24,13 @@ dependencies {
     implementation 'com.android.support:appcompat-v7:27.0.2'
 }
 
+version="1.2"
+
 def siteUrl = 'https://github.com/thubin233'
 
 def gitUrl = 'git@github.com:thubin233/progressview.git'
 
-group = "com.jackiepenghe"
+group = "com.lib.view"
 
 install {
 

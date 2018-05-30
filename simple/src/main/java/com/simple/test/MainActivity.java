@@ -3,7 +3,7 @@ package com.simple.test;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
-import com.lib.file.TextProgressView;
+import com.lib.view.TextProgressView;
 
 public class MainActivity extends AppCompatActivity {
 
